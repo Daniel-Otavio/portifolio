@@ -1,5 +1,14 @@
-# portifolio
+# Portifolio
+
 Portfólio do desenvolvedor
 
-## tarefas
+## Tarefas
+
 o controle de tarefas desse projeto será realizado no github
+
+## Ícones
+
+:package: nova funcionalidade
+:up: atualização
+:beatle: correção de bug
+:checkered_flag: release
